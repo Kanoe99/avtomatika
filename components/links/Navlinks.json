@@ -1,0 +1,96 @@
+[
+  {
+    "name": "about",
+    "link": "/about",
+    "rusName": "Сведения об образовательной организации",
+    "submenu": true,
+    "sublinks": [
+      {
+        "name": "settings",
+        "rusName": "Настройки профиля",
+        "link": "/settings"
+      },
+      {
+        "name": "my-reeterr",
+        "rusName": "Мои Новости",
+        "link": "/mynews"
+      },
+      {
+        "name": "my-neerrws",
+        "rusName": "Мои Новости",
+        "link": "/mynews"
+      }
+    ]
+  },
+  {
+    "name": "teacher",
+    "link": "/",
+    "rusName": "Преподавателю",
+    "submenu": true,
+    "sublinks": [
+      { "name": "login", "rusName": "Войти", "link": "" },
+      {
+        "name": "my-news",
+        "rusName": "Мои Новости",
+        "link": "/mynews"
+      }
+    ]
+  },
+  {
+    "name": "applicant",
+    "link": "/",
+    "rusName": "Абитуриенту",
+    "submenu": true,
+    "sublinks": [
+      {
+        "name": "my-news",
+        "rusName": "Мои Новости",
+        "link": "/mynews"
+      }
+    ]
+  },
+  {
+    "name": "student",
+    "link": "/",
+    "rusName": "Студенту",
+    "submenu": true,
+    "sublinks": [
+      {
+        "name": "my-news",
+        "rusName": "Мои Новости",
+        "link": "/mynews"
+      },
+      {
+        "name": "my-newes",
+        "rusName": "Мои Новости",
+        "link": "/mynews"
+      }
+    ]
+  },
+  {
+    "name": "news",
+    "link": "/news",
+    "rusName": "Новости",
+    "submenu": true,
+    "sublinks": [
+      {
+        "name": "my-news",
+        "rusName": "Мои Новости",
+        "link": "/mynews"
+      }
+    ]
+  },
+  {
+    "name": "contacts",
+    "link": "/",
+    "rusName": "Контакты",
+    "submenu": true,
+    "sublinks": [
+      {
+        "name": "my-news",
+        "rusName": "Мои Новости",
+        "link": "/mynews"
+      }
+    ]
+  }
+]
